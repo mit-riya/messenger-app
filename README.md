@@ -1,16 +1,9 @@
-# messenger
+# Messenger
+The Messenger is a modern group messaging app where users can login to view their chats. It uses Firebase Firestore and Firebase authentication package for secure identification methods and a cloud based noSQL database.  
 
-A new Flutter project.
+## What did I learn through this project
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+•	I learnt how to use firebase authentication to register and sign in users
+•	How to link my app to an external database using firebase firestore
+•	How to use Firebase Cloud Firestore to store and retrieve data 
+•	I learnt about streams and how they work
